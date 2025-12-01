@@ -25,6 +25,8 @@ This section is dedicated to Japanese learning guides. Start here unless you kno
 
 - [Immersion-Based Japanese Learning](https://donkuri.github.io/learn-japanese/guide/) - Frequently updated guide introducing everything you need in order to learn Japanese. Written by [kuri](https://github.com/donkuri/).
 - [TMW's guide to learning Japanese](https://learnjapanese.moe/guide/) - Fantastic guide that has helped thousands learn Japanese using immersion. Written by shoui.
+- [Nullspace02's Guide](https://nullspace02.github.io/) - A more concise guide on how to read in Japanese.
+- [Learning Japanese with Visual Novels](https://vnclub.org/guide/) - A guide by the Visual Novel Club on how to learn Japanese through visual novels.
 
 ## Hiragana and Katakana
 
@@ -101,6 +103,7 @@ Grammar is the glue that holds together words in Japanese.
   - **[Yokubi](https://yoku.bi/)** - A short and to the point grammar guide introducing the basics. Adapted from [Sakubi](https://sakubi.neocities.org/) by [Morg](https://morg.systems/).
   - [IMABI](https://imabi.org/) - Extremely comprehensive look at Japanese grammar, from the basics all the way to Classical Japanese.
   - [Tae Kim](https://guidetojapanese.org/learn/category/grammar-guide/grammar-start/) - A slightly older guide that introduces grammar in a casual manner.
+  - [ボイロ大好き](https://boirodaisuki.neocities.org/) - A quick look at basic Japanese grammar, all in one page.
 
 - Specific grammar points
   - [コノム's guide to は and が](https://konomu.github.io/wa-ga-basics) - A well-written guide explaining one of the most complex grammar point in Japanese.
@@ -260,4 +263,4 @@ This section contains resources that don't quite fit anywhere else.
 - [Locale Emulator](https://github.com/xupefei/Locale-Emulator) - Really cool locale emulator (as the name suggests). Lets you use applications with a Japanese locale without changing your system settings.
 - [LE Shortcut Creator](https://github.com/Svintooo/LEShortcutCreator) - Great app that creates shortcuts for applications that will run through Locale Emulator above so you don't need to change your locale to Japanese to use the applications.
 - [Free Programming Books JP](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ja.md) - The Japanese section of the free programming books GitHub repo. Now you can re-learn your favorite programming language in Japanese! *I recommend Clojure.*
-- [Irodori: Japanese for Life in Japan](https://www.irodori.jpf.go.jp/en/) - Free Japanese learning textbooks for beginners. Their curriculum focuses on listening input a lot, so they provided plenty of free audio files for their lessons.
+- [Irodori: Japanese for Life in Japan](https://www.irodori.jpf.go.jp/en/) - Free Japanese learning resources for beginners. Currently they provide A1 and A2 level materials, such as audio files, grammar notes, and tips for life in Japan.
